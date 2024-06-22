@@ -33,7 +33,7 @@ header{
 }
 .pag {
 
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700;
 }
 #home{
@@ -86,7 +86,7 @@ header{
 
 }
 .connect a {
-    font-size: 3.5em;
+    font-size: 3em;
     transition: transform 0.2s ease;
 }
 
